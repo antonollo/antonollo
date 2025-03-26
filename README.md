@@ -1,18 +1,6 @@
-## Hello, World!
-
-Meu nome é Antonio Gabriel! É um prazer te conhecer!
-
-🇧🇷 Sou do Brasil.
-🧠 Estudante da Universidade do Estado do Amazonas, cursando Engenharia de Computação.
-📚 Atualmente, aprendendo a respeito de muitas coisas!
-
-Entre em contato comigo a partir de um dos seguintes meios:
-1. [Instagram](https://www.instagram.com/martinss.ag?igsh=eXJlcmw0MXY2bjd0)
-2. [LinkedIn](https://www.linkedin.com/in/antonio-gabriel-0666972b6/)
-3. [beecrowd](https://judge.beecrowd.com/en/profile/1118678)
-
 # 💫 About Me:
-## Hello, World!<br><br>Meu nome é Antonio Gabriel! É um prazer te conhecer!<br><br>🇧🇷 Sou do Brasil.<br>🧠 Estudante da Universidade do Estado do Amazonas, cursando Engenharia de Computação.<br>📚 Atualmente, aprendendo a respeito de muitas coisas!<br><br>Entre em contato comigo a partir de um dos seguintes meios:<br>1. [Instagram](https://www.instagram.com/martinss.ag?igsh=eXJlcmw0MXY2bjd0)<br>2. [LinkedIn](https://www.linkedin.com/in/antonio-gabriel-0666972b6/)<br>3. [beecrowd](https://judge.beecrowd.com/en/profile/1118678)<br><br><br>
+## Hello, World!<br><br>Meu nome é Antonio Gabriel! É um prazer te conhecer!
+<br><br>🇧🇷 Sou do Brasil.<br>🧠 Estudante da Universidade do Estado do Amazonas, cursando Engenharia de Computação.<br>📚 Atualmente, aprendendo a respeito de muitas coisas!<br><br>Entre em contato comigo a partir de um dos seguintes meios:<br>1. [Instagram](https://www.instagram.com/martinss.ag?igsh=eXJlcmw0MXY2bjd0)<br>2. [LinkedIn](https://www.linkedin.com/in/antonio-gabriel-0666972b6/)<br>3. [beecrowd](https://judge.beecrowd.com/en/profile/1118678)<br><br><br>
 
 
 ## 🌐 Socials:
