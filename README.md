@@ -1,6 +1,5 @@
 ## Hello, World!<br><br>
-Meu nome é Antonio Gabriel! É um prazer te conhecer!
-<br>🧠 Estudante da Universidade do Estado do Amazonas, cursando Engenharia de Computação.<br>📚 Atualmente, aprendendo a respeito de muitas coisas!<br><br>Entre em contato comigo a partir de um dos seguintes meios:<br>
+<br>🧠 Graduando pela Universidade Tecnológica do Paraná, cursando Engenharia de Computação.<br>📚 Atualmente, possuo interesse em projetos voltados para Inteligência Artificial Aplicada!<br><br>Entre em contato comigo a partir de um dos seguintes meios:<br>
 
 
 ## 🌐 Socials:
