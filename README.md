@@ -4,7 +4,7 @@
 
 ## 👋 Sobre
 
-Estudante de **Engenharia de Computação** na UTFPR, com foco em **Inteligência Artificial Aplicada**. Durante minha passagem pela UEA (2023–2025), atuei em projetos de PD&I e extensão que uniram ciência de dados, aprendizado de máquina e desenvolvimento de software.
+Estudante de **Engenharia de Computação** na UTFPR, com foco em **Engenharia de IA** e **Agentic SDLC**. Durante minha passagem pela UEA (2023–2025), atuei em projetos de PD&I e extensão que uniram ciência de dados, aprendizado de máquina e desenvolvimento de software.
 
 ## 🔬 Experiência em PD&I
 
