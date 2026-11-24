@@ -70,9 +70,10 @@ Condução de pesquisas em Ciência de Dados voltadas ao tratamento e à anális
 | Área | Tecnologias |
 |---|---|
 | IA & LLMs | ![Ollama](https://img.shields.io/badge/Ollama-22090F?style=flat-square&logo=ollama&logoColor=E63946) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-22090F?style=flat-square&logo=huggingface&logoColor=E63946) ![LangChain](https://img.shields.io/badge/LangChain-22090F?style=flat-square&logo=langchain&logoColor=E63946) ![LangGraph](https://img.shields.io/badge/LangGraph-22090F?style=flat-square&logo=langgraph&logoColor=E63946) ![Gemini API](https://img.shields.io/badge/Gemini%20API-22090F?style=flat-square&logo=googlegemini&logoColor=E63946) |
+| ML & Séries Temporais | ![TensorFlow](https://img.shields.io/badge/TensorFlow-22090F?style=flat-square&logo=tensorflow&logoColor=E63946) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-22090F?style=flat-square&logo=scikitlearn&logoColor=E63946) ![Darts](https://img.shields.io/badge/Darts-22090F?style=flat-square) |
+| Agentic SDLC & Automação | ![Antigravity](https://img.shields.io/badge/Antigravity-22090F?style=flat-square) ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-22090F?style=flat-square&logo=googlegemini&logoColor=E63946) ![n8n](https://img.shields.io/badge/n8n-22090F?style=flat-square&logo=n8n&logoColor=E63946) |
 | Backend | ![FastAPI](https://img.shields.io/badge/FastAPI-22090F?style=flat-square&logo=fastapi&logoColor=E63946) ![Express.js](https://img.shields.io/badge/Express.js-22090F?style=flat-square&logo=express&logoColor=E63946) |
 | Frontend | ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-22090F?style=flat-square&logo=shadcnui&logoColor=E63946) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-22090F?style=flat-square&logo=tailwindcss&logoColor=E63946) |
-| Automação | ![n8n](https://img.shields.io/badge/n8n-22090F?style=flat-square&logo=n8n&logoColor=E63946) |
 
 ## 📊 Atividade no GitHub
 
